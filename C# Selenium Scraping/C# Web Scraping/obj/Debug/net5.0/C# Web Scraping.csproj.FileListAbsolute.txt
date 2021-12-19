@@ -55,3 +55,22 @@ C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\n
 C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\ref\C# Web Scraping.dll
 C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.pdb
 C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.genruntimeconfig.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.exe
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.deps.json
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.json
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.dev.json
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\ref\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.pdb
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\WebDriver.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.AssemblyReference.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfoInputs.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfo.cs
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CoreCompileInputs.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CopyComplete
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\ref\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.pdb
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.genruntimeconfig.cache

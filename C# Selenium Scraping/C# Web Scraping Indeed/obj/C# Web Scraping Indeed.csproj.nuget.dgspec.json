@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj": {}
+    "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj": {
+    "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj",
+        "projectUniqueName": "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj",
         "projectName": "C# Web Scraping Indeed",
-        "projectPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj",
+        "projectPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping Indeed\\C# Web Scraping Indeed.csproj",
         "packagesPath": "C:\\Users\\Anmol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping Indeed\\obj\\",
+        "outputPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping Indeed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anmol\\AppData\\Roaming\\NuGet\\NuGet.Config",

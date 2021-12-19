@@ -55,3 +55,22 @@ C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping Indeed\obj\
 C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\ref\C# Web Scraping Indeed.dll
 C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.pdb
 C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.genruntimeconfig.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\C# Web Scraping Indeed.exe
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\C# Web Scraping Indeed.deps.json
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\C# Web Scraping Indeed.runtimeconfig.json
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\C# Web Scraping Indeed.runtimeconfig.dev.json
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\C# Web Scraping Indeed.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\ref\C# Web Scraping Indeed.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\C# Web Scraping Indeed.pdb
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\bin\Debug\net5.0\WebDriver.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.csproj.AssemblyReference.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.AssemblyInfoInputs.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.AssemblyInfo.cs
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.csproj.CoreCompileInputs.cache
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.csproj.CopyComplete
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\ref\C# Web Scraping Indeed.dll
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.pdb
+C:\Users\Anmol\OneDrive\Desktop\Q1\DevOps & Security\project\WebScraping\C# Selenium Scraping\C# Web Scraping Indeed\obj\Debug\net5.0\C# Web Scraping Indeed.genruntimeconfig.cache

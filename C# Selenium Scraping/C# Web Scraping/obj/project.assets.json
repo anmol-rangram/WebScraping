@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping\\C# Web Scraping.csproj",
+      "projectUniqueName": "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping\\C# Web Scraping.csproj",
       "projectName": "C# Web Scraping",
-      "projectPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping\\C# Web Scraping.csproj",
+      "projectPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping\\C# Web Scraping.csproj",
       "packagesPath": "C:\\Users\\Anmol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\C# Selenium Scraping\\C# Web Scraping\\obj\\",
+      "outputPath": "C:\\Users\\Anmol\\OneDrive\\Desktop\\Q1\\DevOps & Security\\project\\WebScraping\\C# Selenium Scraping\\C# Web Scraping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anmol\\AppData\\Roaming\\NuGet\\NuGet.Config",

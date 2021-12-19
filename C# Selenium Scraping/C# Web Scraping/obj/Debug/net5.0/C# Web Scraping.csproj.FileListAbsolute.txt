@@ -1,0 +1,57 @@
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.exe
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.deps.json
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.json
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.dev.json
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\ref\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.pdb
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Abhijeet\Tution\00\C# Web Scraping\bin\Debug\net5.0\WebDriver.dll
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csprojAssemblyReference.cache
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfoInputs.cache
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfo.cs
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CoreCompileInputs.cache
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CopyComplete
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\ref\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.pdb
+D:\Abhijeet\Tution\00\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.genruntimeconfig.cache
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.exe
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.deps.json
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.json
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.dev.json
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\ref\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.pdb
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\WebDriver.dll
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csprojAssemblyReference.cache
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfoInputs.cache
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfo.cs
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CoreCompileInputs.cache
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CopyComplete
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\ref\C# Web Scraping.dll
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.pdb
+D:\Abhijeet\Tution\00\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.genruntimeconfig.cache
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.exe
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.deps.json
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.json
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.runtimeconfig.dev.json
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\ref\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\C# Web Scraping.pdb
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\bin\Debug\net5.0\WebDriver.dll
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.AssemblyReference.cache
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfoInputs.cache
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.AssemblyInfo.cs
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CoreCompileInputs.cache
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.csproj.CopyComplete
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\ref\C# Web Scraping.dll
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.pdb
+C:\Users\Anmol\OneDrive\Desktop\C# Selenium Scraping\C# Web Scraping\obj\Debug\net5.0\C# Web Scraping.genruntimeconfig.cache
